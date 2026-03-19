@@ -3,7 +3,7 @@ export const projects = [
     id: "01", category: "AI PLATFORM", title: "MENTORA AI",
     desc: "AI-powered mentorship platform with GPT integration, JWT auth, personalized learning and real-time feedback.",
     tags: ["ReactJS","NodeJS","ExpressJS","MongoDB","Strapi","JWT"],
-    github: "https://github.com/MrRoy-0257", live: "mentora-fipcnej91-rrooyypatil0257-8564s-projects.vercel.app",
+    github: "https://github.com/MrRoy-0257", live: "https://mentora-ai-nine.vercel.app/",
   },
   {
     id: "02", category: "STREAMING", title: "VIDEO STREAMING WEBSITE",
