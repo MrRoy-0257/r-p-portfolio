@@ -1,7 +1,7 @@
 export const projects = [
   {
     id: "01", category: "AI PLATFORM", title: "MENTORA AI",
-    desc: "AI-powered mentorship platform with GPT integration, JWT auth, personalized learning and real-time feedback.",
+    desc: "AI-powered mentorship platform with GPT integration, JWT auth, personalized learning and real-time feedback. Important Notice Backend services are currently disabled This project uses AI APIs (OpenAI / OpenRouter) that require active billing/subscription. Due to this: AI chatbot responses are not workingSummarization and quiz generation are disabledBackend API routes are currently inactive ✅ However:Frontend UI is fully functional Design, layout, and user experience can be explored : Project structure and integration logic are implemented in the codebase. If you want to see the full functionality, please check the GitHub or use the link given below ",
     tags: ["ReactJS","NodeJS","ExpressJS","MongoDB","Strapi","JWT"],
     github: "https://github.com/MrRoy-0257", live: "https://mentora-ai-nine.vercel.app/",
   },
